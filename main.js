@@ -2,11 +2,12 @@ import "./style.css";
 import * as THREE from "three";
 import * as dat from "lil-gui";
 // import bg from "./images/bg3.jpeg";
+// import bg from "./images/bg3.jpeg";
 
 /**
  * デバッグ(色つけるときに追加)
  */
-// const gui = new dat.GUI();
+// const gui = new dat.GUI();ssss
 
 // const parameters = {
 //   materialColor: "#ffffff",
